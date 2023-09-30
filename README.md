@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Manuello Agus Setiawan</h1>
 <h3 align="center">I major RPL at SMK Tunas Media</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=definetlynotray&label=Profile%20views&color=0e75b6&style=flat" alt="definetlynotray" /> </p>
-
 - 🔭 I’m currently working on **Personal Portfolio w/Astro & SAAS**
 
 - 🌱 I’m currently learning **Astro,Next.JS/React,SAAS**
