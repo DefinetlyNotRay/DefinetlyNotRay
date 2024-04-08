@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edgar Manuello Agus Setiawan</h1>
 <h3 align="center">I major RPL at SMK Tunas Media</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio w/Astro & SAAS**
+- 🔭 I’m currently working on **nothing*
 
-- 🌱 I’m currently learning **Astro,Next.JS/React,SAAS**
+- 🌱 I’m currently learning **React, GOLANG**
 
 - 📫 How to reach me **edgarmasstudio@gmail.com**
 
