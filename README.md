@@ -2,7 +2,7 @@
 <p>I'm currently a student at SMK Tunas Media in Indonesia, i like to problem solve and sleep if i dont find the solution usually i get it in my dreams👍</p>
 
 # 💫 A little thing about me:
-🔭 I’m currently working on --<br>👯 I’m looking to collaborate on NextText<br>🤝 I’m looking for help with --<br>🌱 I’m currently learning GO & React<br>💬 Ask me about CSS and ill be there<br>⚡ Fun fact i hate bootsrap
+🔭 I’m currently working on NexDelivery <br>👯 I’m looking to collaborate on NexDelivery<br>🤝 I’m looking for help with --<br>🌱 I’m currently learning GO & React<br>💬 Ask me about CSS and ill be there<br>⚡ Fun fact i hate bootsrap
 
 
 ## 🌐 Socials if you care:
